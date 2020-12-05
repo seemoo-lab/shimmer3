@@ -53,7 +53,7 @@
 #define FW_IDENTIFIER      2     //Two byte firmware identifier number: always 2 for SDLog
 #define FW_VER_MAJOR       0     //Major version number: 0-65535
 #define FW_VER_MINOR       19    //Minor version number: 0-255
-#define FW_VER_REL         0     //internal version number: 0-255
+#define FW_VER_REL         1     //internal version number: 0-255
 // Packet Types
 #define DATA_PACKET                       0x00
 #define ACK_COMMAND_PROCESSED             0xFF
